@@ -1,6 +1,6 @@
-*.ru$
-*.by$
-*.su$
+*\.ru$
+*\.by$
+*\.su$
 ^rus
 ^dnr
 ^lnr
