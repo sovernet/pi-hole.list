@@ -7,5 +7,5 @@
 ^(^|\.)mradx\.net$
 ^*consensu\.org$
 ^ru$
-^vk.com$
+^vk\.com$
 ^yandex*
