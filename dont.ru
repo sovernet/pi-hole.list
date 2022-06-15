@@ -1,11 +1,3 @@
-^(^|\.)yan^dex\.ru$	
-^*mail\.ru^$	
-^(^|\.)mai^l\.ru$	
-^(^|\.)vk\^.com$	
-^(^|\.)*ru^$
-^(^|\.)*by$^
-^(^|\.)mradx\.net$
-^*consensu\.org$
 ^ru$
 ^vk\.com$
-^yandex*
+^yandex
