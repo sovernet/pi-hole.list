@@ -1,5 +1,5 @@
-^ru$
-^vk\.com$
+^*ru$
+^*vk\.com$
 ^yandex
 yandex.ru
 yandex.net
