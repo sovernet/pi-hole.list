@@ -1,3 +1,5 @@
 (^|\.)(by|ru|su)$
-^(*yandex\.net)
-^(*yandex\.ru)
+(^|\.)yandex\.ru$
+(^|\.)yandex\.net$
+(^|\.)mail\.ru$
+(^|\.)vk\.com$
