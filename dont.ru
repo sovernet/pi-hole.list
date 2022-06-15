@@ -1,5 +1,8 @@
-(^|\.)(by|ru|su)$
-(^|\.)yandex\.ru$
-(^|\.)yandex\.net$
-(^|\.)mail\.ru$
-(^|\.)vk\.com$
+(^|\.)yandex\.ru$	
+*mail\.ru$	
+(^|\.)mail\.ru$	
+(^|\.)vk\.com$	
+(^|\.)*ru$
+(^|\.)*by$
+(^|\.)mradx\.net$
+*consensu\.org$
